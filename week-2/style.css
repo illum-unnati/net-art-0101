@@ -5,6 +5,9 @@ body {
     outline: 2pt;
     outline-color: white;
     margin: 200px;
+    font-family: 'Courier New', monospace;
+    font-weight:500;
+
   }
   p.solid {
     border-style: solid;
@@ -25,5 +28,6 @@ body {
   
     }
     a{
+  
         color: white;
     }
